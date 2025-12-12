@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Spletna Stran</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Dobrodošli na moji spletni strani</h1>
+        <p>Profesionalna in popolnoma brezplačna stran</p>
+    </header>
+
+    <section class="about">
+        <h2>O meni</h2>
+        <p>
+            To je vaša nova spletna stran. Tukaj lahko predstavite sebe, svoj projekt
+            ali podjetje. Stran je lahka, hitra in profesionalnega izgleda.
+        </p>
+    </section>
+
+    <section class="services">
+        <h2>Moje storitve / projekt</h2>
+        <ul>
+            <li>✔ Predstavitev projekta</li>
+            <li>✔ Kontakt</li>
+            <li>✔ Linki do socialnih omrežij</li>
+            <li>✔ Portfolio ali galerija</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Kontakt</h2>
+        <p>Email: <strong>tvojemail@example.com</strong></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Moja Spletna Stran – vse pravice pridržane</p>
+    </footer>
+
+</body>
+</html>
